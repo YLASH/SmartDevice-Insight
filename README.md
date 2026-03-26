@@ -125,8 +125,10 @@ dotnet run
 ---
 
 ## 📸 Demo
-
-![App Demo](images/demo.gif)
+<p align="center">
+  <img src="images/demo.gif" width="500" alt="App Demo">
+</p>
+<!-- ![App Demo](images/demo.gif) -->
 
 ---
 
